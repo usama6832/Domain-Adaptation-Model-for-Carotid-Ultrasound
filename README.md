@@ -10,6 +10,8 @@ The results showed that domain adaptation was achieved in both tasks (histogram 
 The model outperformed the CycleGAN in both tasks. Finally, the risk marker GSM was significantly changed in the noise reduction but not in the image harmonization task.
 We conclude that domain translation models are powerful tools for ultrasound image improvement while retaining the underlying anatomy, but downstream calculations of risk markers may be affected.
 
+**Link to Manuscript:** <a href="https://arxiv.org/abs/2407.05163">https://arxiv.org/abs/2407.05163</a>
+
 # Key Features
 **Image Harmonization:** Aligns texture patterns across different ultrasound systems.  
 **Noise Reduction:** Reduces noise while preserving critical anatomical structures.  
