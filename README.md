@@ -59,7 +59,7 @@ If you make use of the code, please cite the paper in resulting publication as:
 This project is licensed under the MIT License.
 
 # Contact
-For questions, contact Usama at: <a href="mailto:mohd.usama@umu.se.com">mohd.usama@umu.se</a>
+For questions, contact Usama at: <a href="mailto:mohd.usama@umu.se.com">mohd.usama@umu.se</a>, Christer at: <a href="mailto:christer.gronlund@umu.se">christer.gronlund@umu.se</a>
 
 
 
