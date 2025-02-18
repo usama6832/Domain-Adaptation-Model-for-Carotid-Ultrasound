@@ -1,0 +1,6 @@
+## Prerequisites
+tensorflow-gpu
+numpy 1.11.0
+scipy 0.17.0
+pillow 3.3.0
+imageio
