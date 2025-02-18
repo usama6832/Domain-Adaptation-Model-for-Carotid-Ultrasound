@@ -20,13 +20,6 @@ We conclude that domain translation models are powerful tools for ultrasound ima
 **Anatomy Preservation:** High SSIM scores ensuring structural integrity.  
 **Risk Marker Analysis:** Evaluates changes in computed GSM values.
 
-# Repository Structure
-├── data/                    # Sample input/output ultrasound images  
-├── models/                  # GAN architecture and pretrained models  
-├── scripts/                 # Training and evaluation scripts  
-├── results/                 # Evaluation metrics and visualization  
-├── README.md                # This file  
-└── requirements.txt         # Dependencies  
 
 # Installation
 
@@ -46,7 +39,7 @@ Use tensorboard to visualize the training details:
 tensorboard --logdir=./logs
 
 # Testing
-- Finally, test the model:
+
 python main.py --dataset_dir=m1tom2 --phase=test --which_direction=AtoB
 
 
