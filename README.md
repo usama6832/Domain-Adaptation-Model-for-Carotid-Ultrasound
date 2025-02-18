@@ -39,13 +39,16 @@ pip install -r requirements.txt
 
 # Training
 
-**Run the training script:**  
-python main.py --train  
+python main.py --dataset_dir=m1tom2 --phase=train 
 
-# Evaluation
+Use tensorboard to visualize the training details:
 
-**Evaluate the trained model:**  
-python main.py --test  
+tensorboard --logdir=./logs
+
+# Testing
+- Finally, test the model:
+python main.py --dataset_dir=m1tom2 --phase=test --which_direction=AtoB
+
 
 
 # Citation  
