@@ -1,7 +1,6 @@
-## Full code Will be updated Soon.......
+## Code Will be updated Soon.......
 # GAN-Based Ultrasound Image Domain Adaptation
 
-# Overview
 This repository contains the code and resources for our paper, "**A Domain Adaptation Model for Carotid Ultrasound: Image Harmonization, Noise Reduction, and Impact on Cardiovascular Risk Markers**," where we address domain adaptation challenges in carotid ultrasound imaging. Our approach utilizes a Generative Adversarial Network (GAN) to harmonize and denoise Carotid ultrasound images while preserving anatomical structures.
 
 # Abstract
